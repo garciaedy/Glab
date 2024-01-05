@@ -1,4 +1,4 @@
-package glab303_10_1_Inheritance;
+package glab_303_10_1_inheritance_and_object_type_casting;
 
 public class Person {   String         name;
     static int     lifeSpan = 60;
@@ -25,5 +25,6 @@ public class Person {   String         name;
     }
     public static double lifeSpan() {
         return(lifeSpan * ageFactor);
+
     }
 }

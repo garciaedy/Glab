@@ -1,6 +1,4 @@
-package glab303_10_1_Inheritance;
-
-import java.sql.SQLOutput;
+package glab_303_10_1_inheritance_and_object_type_casting;
 
 public class TestPeople {
     public static void main(String args[]) {

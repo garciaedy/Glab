@@ -1,4 +1,4 @@
-package glab303_10_1_Inheritance;
+package glab_303_10_1_inheritance_and_object_type_casting;
 
 public class Boy extends Person {
     static double   ageFactor = 1.1;

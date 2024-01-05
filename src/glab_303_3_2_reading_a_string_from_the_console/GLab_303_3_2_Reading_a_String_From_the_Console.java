@@ -1,0 +1,4 @@
+package glab_303_3_2_reading_a_string_from_the_console;
+
+public class GLab_303_3_2_Reading_a_String_From_the_Console {
+}
