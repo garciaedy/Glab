@@ -3,9 +3,9 @@ package glab_303_2_1_core_java_operators;
 import java.util.Scanner;
 
 public class ThreeSidesOfTrian {
-    public static void main(String[] str){
+    public static void main(String[] str) {
         // Create a Scanner object for reading from standard input
-       Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         // Prompt the user to enter the lengths of the sides of the triangle
         System.out.print("Enter the length of side A: ");
